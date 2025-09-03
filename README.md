@@ -114,7 +114,7 @@ Assets/
 
 This project is licensed under the MIT License.  
 See the LICENSE file for details.  
-Copyright (c) 2024 Reddy-Priya-Pedhannavari
+Copyright (c) 2023 Reddy-Priya-Pedhannavari
 
 ---
 
