@@ -40,11 +40,14 @@ Head Blow is a unique 3D survival game where you control a character whose head 
 ## Screenshots
 
 **Screenshots:**  
-<!-- Add your game screenshots here, for example: -->
 
-<img src="Images/HeadBlow1.png" alt="Screenshot 1" width="200" height="auto"/>
-<img src="Images/HeadBlow2.png" alt="Screenshot 2" width="200" height="auto"/>
-<img src="Images/HeadBlow3.png" alt="Screenshot 3" width="200" height="auto"/>
+<img src="Images/IMAGE_1_2025-09-03 192305.jpg" alt="Screenshot 1" width="200" height="auto"/>
+<img src="Images/IMAGE_2_2025-09-03 192305.jpg" alt="Screenshot 2" width="200" height="auto"/>
+<img src="Images/IMAGE_3_2025-09-03 192305.jpg" alt="Screenshot 3" width="200" height="auto"/>
+<img src="Images/IMAGE_4_2025-09-03 192305.jpg" alt="Screenshot 3" width="200" height="auto"/>
+
+**Video:**
+https://github.com/Reddy-Priya-Pedhannavari/Head_Blow_Game_Unity/blob/main/Video/Head_Blow_Game_Video_2025-09-03%20192305.mp4
 
 ---
 
